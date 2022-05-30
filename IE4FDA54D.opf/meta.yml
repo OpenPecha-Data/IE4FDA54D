@@ -1,0 +1,25 @@
+id: IE4FDA54D
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T22:03:39.746622'
+last_modified: '2022-05-30T22:03:39.746628'
+parser: null
+source_metadata:
+  title: Katok Rigdzin Tsewang Norbu
+  language: bo
+  description: 'Texts by Katok Rigdzin Tsewang Norbu (kaḥ thog rig ''dzin tshe dbang
+    nor bu, 1698–1755):'
+  volume:
+    f2222:
+      title: Advice for a King
+      base_file: f2222.txt
+      order: 1
+      parent: Advice
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
